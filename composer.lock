@@ -9,17 +9,6 @@
         {
             "name": "barryvdh/laravel-dompdf",
             "version": "v2.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/barryvdh/laravel-dompdf.git",
-                "reference": "1d47648c6cef37f715ecb8bcc5f5a656ad372e27"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/barryvdh/laravel-dompdf/zipball/1d47648c6cef37f715ecb8bcc5f5a656ad372e27",
-                "reference": "1d47648c6cef37f715ecb8bcc5f5a656ad372e27",
-                "shasum": ""
-            },
             "require": {
                 "dompdf/dompdf": "^2",
                 "illuminate/support": "^6|^7|^8|^9",
